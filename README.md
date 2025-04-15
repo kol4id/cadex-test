@@ -1,0 +1,21 @@
+###  реализация тут -> src/app/ParamEditor.tsx  
+
+### 1. Склонировать репозиторий  
+```bash
+git clone https://github.com/kol4id/cadex-test
+cd cadex-test
+```
+### 2. Установить зависимости
+```bash
+npm install 
+```
+### 3. Запустить сервер
+```bash
+npm run dev
+```
+### 4. Открыть
+
+приложение доступно по адресу:
+```bash
+http://localhost:5173
+```
